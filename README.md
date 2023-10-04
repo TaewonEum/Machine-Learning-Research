@@ -1,8 +1,6 @@
-# Machine-Learning-Study-First
+# Machine-Learning-Study
 
 ### First Code
 
-- How to install basic libraries and use Kaggle API
-- Please refer to the first code that name 라이브러리 설치 및 Kaggle API 사용.ipynb
-
+- Kaggle 데이터 활용 Python 기반 데이터 전처리, 분할, 머신러닝 적용 코드 작성
 
